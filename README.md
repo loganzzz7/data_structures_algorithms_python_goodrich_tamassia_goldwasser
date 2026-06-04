@@ -1,0 +1,2 @@
+# data_structures_algorithms_python_goodrich_tamassia_goldwasser
+book notes
